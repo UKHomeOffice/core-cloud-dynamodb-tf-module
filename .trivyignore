@@ -1,0 +1,7 @@
+## KMS CMK - currently optional
+# Key Rotation - no config if CMK is not used#
+avd-aws-0065
+avd-aws-0065
+
+# Dynamodb point in time recovery - optional
+avd-aws-0024
