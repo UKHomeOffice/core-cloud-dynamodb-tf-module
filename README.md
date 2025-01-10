@@ -151,7 +151,7 @@ No modules.
 
 ## Authors
 
-Module is maintained by [Anton Babenko](https://github.com/antonbabenko) with help from [these awesome contributors](https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table/graphs/contributors).
+This module has initially been cut from (https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table/tree/v4.2.0). The original module is maintained by [Anton Babenko](https://github.com/antonbabenko) with help from [these awesome contributors](https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table/graphs/contributors).
 
 ## License
 
